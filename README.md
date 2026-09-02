@@ -15,6 +15,10 @@ The objective of this project is to transform raw sales data into an interactive
 - Excel Formulas
 - Data Cleaning & Analysis
 
+## 🖼️ Dashboard Preview
+
+![Croma Sales & Profit Dashboard](Dashboard.png)
+
 ## 📈 Dashboard Features
 - Total Sales
 - Total Profit
