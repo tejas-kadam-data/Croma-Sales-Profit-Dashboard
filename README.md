@@ -3,6 +3,8 @@
 ## 📊 Project Overview
 An interactive Sales & Profit Dashboard created using Microsoft Excel to analyze sales performance, profitability, customer insights, product categories, and state-wise sales.
 
+Dataset Note: The dataset used in this project is a sample Croma-style dataset created for learning and portfolio purposes.
+
 ## 🎯 Objective
 The objective of this project is to transform raw sales data into an interactive dashboard that helps identify sales trends, profitable customers, top-performing product categories, and state-wise performance.
 
@@ -24,7 +26,7 @@ The objective of this project is to transform raw sales data into an interactive
 - Total Profit
 - Profit by Year
 - Sales by Sub-Category
-- Customer Count
+- Customer Records by Year
 - Sales by State using Map Chart
 - Top 5 Customers by Profit
 - Monthly Sales Analysis
